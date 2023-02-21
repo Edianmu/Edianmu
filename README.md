@@ -1,8 +1,20 @@
+  <h2>
+		Hi, I'm Edisson Muñoz
+	</h2>
+	<ul>
+		<li>
+			<g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>
+			 Junior | Back-End | Software Developer 
+		</li>
+		<li>
+			<g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>
+			 Logical thinking | Adaptability | Goal achievement orientation
+		</li>
+	</ul>
 <br>
 <div align="center">
-  <a href="https://github.com/edianmu">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=edianmu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edianmu&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edianmu&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edianmu&layout=compact&langs_count=7&theme=rose_pine"/>
 </div>
 <div style="display: inline_block"><br> <div align="center">
 	<img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
