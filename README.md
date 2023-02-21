@@ -13,8 +13,8 @@
 	</ul>
 <br>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edianmu&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edianmu&layout=compact&langs_count=7&theme=rose_pine"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=edianmu&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edianmu&layout=compact&langs_count=7&theme=rose_pine"/>
 </div>
 <div style="display: inline_block"><br> <div align="center">
 	<img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
